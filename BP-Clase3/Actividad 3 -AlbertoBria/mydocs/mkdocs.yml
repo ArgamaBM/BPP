@@ -1,0 +1,6 @@
+site_name: Documentación de mi código
+nav:
+  - Inicio: index.md
+  - Código: codigo.md
+theme:
+  name: mkdocs
